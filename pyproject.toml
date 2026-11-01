@@ -1,0 +1,9 @@
+[project]
+name = "komga-tagger"
+version = "0.1.0"
+description = "Copy Komga meta data for a comic into the cbz ComicInfo.xml"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.34.2",
+]
